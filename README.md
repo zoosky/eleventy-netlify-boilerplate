@@ -24,7 +24,7 @@ Based on the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) re
 
 ## Want to try it out now?
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms) [![Greenkeeper badge](https://badges.greenkeeper.io/zoosky/eleventy-netlify-boilerplate.svg)](https://greenkeeper.io/)
 
 Clicking the button above will deploy a copy the demo website to your Netlify
 account (you can create an account during this process if you don't have one)
